@@ -1,3 +1,3 @@
 require('./time')
 
-console.log(sec2hr(3600))
+console.log(hr2sec(1))
